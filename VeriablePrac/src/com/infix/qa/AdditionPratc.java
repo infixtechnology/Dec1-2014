@@ -7,7 +7,7 @@ public class AdditionPratc {
 		firstNum = 9;// Assiging a value to variable
 		int secNum = 8;
 		float result = firstNum / secNum;
-		System.out.println("The final result is "+result);
+		System.out.println("   The final result is "+result);
 
 	}
 
